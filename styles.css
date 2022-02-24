@@ -1,0 +1,15 @@
+body {
+    background-image: url('beastTitan.jfif');
+    text-align: center;
+}
+
+.title {
+    font-size: 64px;
+    color: white;
+    background-color: #231F20;
+}
+.farty-bird-canvas {
+    width: 959px; 
+    height: 638px; 
+    background: #231F20;
+}
